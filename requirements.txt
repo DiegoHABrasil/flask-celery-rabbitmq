@@ -1,0 +1,5 @@
+flask
+redis
+structlog
+requests
+celery
